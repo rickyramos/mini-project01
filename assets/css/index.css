@@ -1,0 +1,36 @@
+body { 
+    font-family: 'Times New Roman', Times, serif;
+}
+header {background-color: rgb(27, 231, 231);
+display: flex;
+justify-content: space-between;
+position: fixed;
+width: 100%;
+top: 0%;
+}
+h1 { 
+    margin: 0;
+    padding: 4px;
+}
+nav { font-size: 1.5em;
+    margin: 0 10px;
+
+}
+figure {
+    width: 50%;
+    margin: 0 auto;
+   font-size: 2em;
+}
+img {
+   width: 100%; 
+}
+form { 
+    background-color:lightcoral;
+    padding: 1em;
+    font-size: 1.5em;
+}
+footer { 
+    padding: 3px;
+    font-size: 3em;
+    color: darkblue;
+}
